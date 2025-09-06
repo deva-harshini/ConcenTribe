@@ -1,5 +1,5 @@
-#ConcenTribe
-
+**ConcenTribe
+**
 AI-powered app to combat content overconsumption and information overload.
 
 🚀 Overview

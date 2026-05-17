@@ -1,81 +1,85 @@
-**ConcenTribe
-**
-AI-powered app to combat content overconsumption and information overload.
+# ConcenTribe
 
-🚀 Overview
+An AI-powered productivity and focus platform designed to reduce content overconsumption, improve concentration, and help users build healthier digital habits through intelligent personalization and gamification.
 
-In today’s digital world, endless notifications, news feeds, and updates lead to information overload, reduced productivity, and mental fatigue.
-ConcenTribe is designed to solve this by offering:
+---
 
-Personalized content filtering
+## Features
 
-AI-powered summarization
+- AI-powered article and content summarization
+- Focus Mode for distraction-free productivity
+- Smart notifications and adaptive reminders
+- Gamified productivity tracking
+- Personalized and adaptive content feed
+- Responsive UI for desktop and mobile devices
+- Real-time interactive features
+- Modern and user-friendly interface
 
-Focus and productivity tools
+---
 
-Gamification for healthy digital habits
+## Tech Stack
 
-✨ Features
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
 
-🎯 Personalized Recommendations – Filter content by categories, focus areas, and time limits.
+### Backend
+- Node.js
+- Express.js
 
-🤖 AI Summarization – Convert long articles, videos, and podcasts into concise summaries.
+### Database
+- MongoDB / PostgreSQL
 
-😌 Mood-Based Suggestions – Content tailored to user’s emotional state.
+### APIs & Tools
+- OpenAI API
+- Drizzle ORM
 
-🏆 Gamification – Streaks, badges, and points to encourage healthy consumption.
+---
 
-⏳ Focus Timer – Manage time spent on content and stay distraction-free.
+## Objectives
 
-📊 Weekly Insights – Analytics on habits with improvement tips.
+ConcenTribe was developed to address:
+- Information overload
+- Digital distraction
+- Reduced attention span
+- Productivity management
+- Healthy technology usage
 
-🛠️ Tech Stack
+The platform combines AI-driven assistance with engaging productivity techniques to create a more focused and balanced digital experience.
 
-Frontend: React / React Native
+---
 
-Backend: Node.js 
-
-Database: MongoDB
-
-AI Models: OpenAI API, NLP Summarization
-
-Hosting: Firebase 
-
-⚡ Getting Started
-Prerequisites
-
-Node.js & npm
-
-MongoDB (local or cloud)
-
-OpenAI API key
-
-Installation
+## Screenshots link
 
 
-📊 Before vs After ConcenTribe
 
-⏱️ Time Saved: Up to 2 hours/day by skipping irrelevant content
+---
 
-🧘 Mental Clarity: Reduced stress from content overload
+## live demo
 
-📈 Productivity: More focus on meaningful tasks
 
-🔮 Future Scope
 
-🌍 Multilingual support for global users
+---
 
-🤝 Partnerships with content providers
+## Future Enhancements
 
-📱 Corporate/team plans for organizations
+- AI productivity analytics
+- Cross-platform mobile application
+- Social productivity challenges
+- Advanced recommendation system
+- Offline productivity mode
 
-⚡ Smarter AI summarization & recommendations
 
-📜 License
+---
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+## License
 
-👩‍💻 Author
+This project is licensed under the MIT License.
 
-Harshini – 3rd year CSE student, building projects to solve real-world digital challenges.
+---
+
+## Developer
+
+Developed by Deva Harshini

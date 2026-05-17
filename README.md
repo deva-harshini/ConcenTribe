@@ -53,7 +53,7 @@ The platform combines AI-driven assistance with engaging productivity techniques
 
 ## Screenshots link
 
-[https://drive.google.com/drive/folders/1N6p-tX6V_qMRVS2xbyMjZ0P0julDjFFy?usp=sharing](ConcenTribe Link)
+[ConcenTribe Link](https://drive.google.com/drive/folders/1N6p-tX6V_qMRVS2xbyMjZ0P0julDjFFy?usp=sharing)
 ---
 
 
